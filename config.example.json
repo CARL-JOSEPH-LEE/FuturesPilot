@@ -1,0 +1,10 @@
+{
+    "api_key": "",
+    "api_secret": "",
+    "symbol": "BTCUSDT",
+    "side": "BUY",
+    "leverage": 1,
+    "entry_offset_pct": "0.05",
+    "take_profit_pct": "0.5",
+    "stop_loss_pct": "0.4"
+}
